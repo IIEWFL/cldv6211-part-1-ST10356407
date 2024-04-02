@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:views\\home\\work.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|c:\\users\\user\\desktop\\khumalocraftpoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D666581-2E10-47C1-A220-F92FAEE21A30}|KhumaloCraftPOE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Work.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Work.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Work.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Work.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Work.cshtml*",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAJQAAADdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T16:52:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Contact.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml*",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T16:51:55.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\About.cshtml*",
+              "RelativeToolTip": "Views\\Home\\About.cshtml*",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T14:53:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T14:21:41.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAmwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T15:10:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\KhumaloCraftPOE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:51:25.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

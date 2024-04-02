@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\KhumaloCraftPOE.exe
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\KhumaloCraftPOE.dll
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\KhumaloCraftPOE.deps.json
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\KhumaloCraftPOE.runtimeconfig.json
+C:\Users\user\Desktop\KhumaloCraftPOE\obj\Release\net8.0\PubTmp\Out\KhumaloCraftPOE.pdb
